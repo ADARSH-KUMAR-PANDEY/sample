@@ -1,0 +1,103 @@
+.navbar {
+  background-color: #022830;
+  padding: 0.75rem 1rem;
+  font-family: 'Segoe UI', sans-serif;
+  color: #ffffff;
+  position: relative;
+  z-index: 1000;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+.navbar-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar-toggler {
+  border: none;
+  background: transparent;
+  font-size: 1.8rem;
+  color: #ffffff;
+  cursor: pointer;
+}
+
+.navbar-toggler.hidden {
+  display: none;
+}
+
+.navbar-toggler.visible {
+  display: block;
+}
+
+.navbar-collapse.open {
+  display: block;
+  text-align: center;
+  transition: all 0.3s ease;
+}
+
+.navbar-collapse.closed {
+  display: none;
+}
+
+.navbar-list {
+  list-style: none;
+  padding: 0;
+  margin: 1rem 0 0 0;
+  width: 100%;
+}
+
+.navbar-list.desktop {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 0;
+}
+
+.navbar-item {
+  position: relative;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  transition: background 0.3s ease;
+  text-align: center;
+}
+
+.navbar-link {
+  text-decoration: none;
+  color: #ffffff;
+  font-weight: 500;
+  font-size: 1.3rem;
+  white-space: nowrap;
+  transition: color 0.3s ease;
+}
+
+.dropdown {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background-color: #e7ee2d;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+  min-width: 180px;
+  display: flex;
+  flex-direction: column;
+  z-index: 999;
+  border-radius: 4px;
+  overflow: hidden;
+  margin-top: 0;
+}
+
+.navbar-list.mobile .dropdown {
+  position: static;
+  margin-top: 0.5rem;
+}
+
+.dropdown-item {
+  padding: 0.6rem 1rem;
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 0.95rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  background-color: #030c1d;
+  transition: background 0.3s ease;
+}
+

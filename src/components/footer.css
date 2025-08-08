@@ -1,0 +1,31 @@
+.footer-icon {
+  color: #E4405F;          /* Instagram color */
+  font-size: 38px;
+  margin: 0 28px;
+  display: inline-block;
+  gap: 5rem;
+  transition: transform 0.15s ease, opacity 0.15s ease;
+}
+.footer-icon[aria-label="Email"] {
+  color: white;
+}
+
+.footer-icon:hover {
+  transform: translateY(-3px);
+  opacity: 0.9;
+}
+/* LinkedIn */
+.footer-icon[aria-label="LinkedIn"] {
+  color: #0077B5;
+}
+
+/* YouTube */
+.footer-icon[aria-label="YouTube"] {
+  color: #FF0000;
+}
+
+/* Optional: Hover effect for all */
+.footer-icon:hover {
+  transform: scale(1.15);
+  opacity: 0.85;
+}
