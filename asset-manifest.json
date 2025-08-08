@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/ADARSH-KUMAR-PANDEY/sample/static/css/main.6ec5d398.css",
-    "main.js": "/ADARSH-KUMAR-PANDEY/sample/static/js/main.068af74c.js",
-    "static/media/sttp.png": "/ADARSH-KUMAR-PANDEY/sample/static/media/sttp.cd998b77e32012f97835.png",
-    "static/media/ai.png": "/ADARSH-KUMAR-PANDEY/sample/static/media/ai.7822ca400f51c1e2aa9c.png",
-    "static/media/projectgrp.png": "/ADARSH-KUMAR-PANDEY/sample/static/media/projectgrp.18e7237f67976a1a0b2b.png",
-    "static/media/hackathon.png": "/ADARSH-KUMAR-PANDEY/sample/static/media/hackathon.72c9e620a3e337452619.png",
-    "static/media/hand.png": "/ADARSH-KUMAR-PANDEY/sample/static/media/hand.cc99113acf9d54be899c.png",
-    "static/media/smc.png": "/ADARSH-KUMAR-PANDEY/sample/static/media/smc.25619ce61fef7a051212.png",
-    "static/media/workshopbtech.png": "/ADARSH-KUMAR-PANDEY/sample/static/media/workshopbtech.8756fc99b8407303754e.png",
-    "static/media/demoatconclave.png": "/ADARSH-KUMAR-PANDEY/sample/static/media/demoatconclave.7ab2463164eb4f676432.png",
-    "static/media/completion.png": "/ADARSH-KUMAR-PANDEY/sample/static/media/completion.d4ec7464bbe427220339.png",
-    "static/media/modelhand.png": "/ADARSH-KUMAR-PANDEY/sample/static/media/modelhand.02cdfad871c769f78f72.png",
-    "static/media/datacollection.png": "/ADARSH-KUMAR-PANDEY/sample/static/media/datacollection.6fdd40fb3fcab2a5cee2.png",
-    "static/media/certi.png": "/ADARSH-KUMAR-PANDEY/sample/static/media/certi.18794a55944ed9facdd2.png",
-    "static/media/svnitlogo.png": "/ADARSH-KUMAR-PANDEY/sample/static/media/svnitlogo.86c161caea58fde5becf.png",
-    "static/media/treadmill.png": "/ADARSH-KUMAR-PANDEY/sample/static/media/treadmill.ed82c5fcbaa8e6ea27b9.png",
-    "static/media/3dprinter.png": "/ADARSH-KUMAR-PANDEY/sample/static/media/3dprinter.7aaac68bc092450d42ab.png",
-    "static/media/cismrlogo.png": "/ADARSH-KUMAR-PANDEY/sample/static/media/cismrlogo.7f08184d3fd7cb0b1a71.png",
-    "index.html": "/ADARSH-KUMAR-PANDEY/sample/index.html",
-    "main.6ec5d398.css.map": "/ADARSH-KUMAR-PANDEY/sample/static/css/main.6ec5d398.css.map",
-    "main.068af74c.js.map": "/ADARSH-KUMAR-PANDEY/sample/static/js/main.068af74c.js.map"
+    "main.css": "/sample/static/css/main.6ec5d398.css",
+    "main.js": "/sample/static/js/main.980d64e0.js",
+    "static/media/sttp.png": "/sample/static/media/sttp.cd998b77e32012f97835.png",
+    "static/media/ai.png": "/sample/static/media/ai.7822ca400f51c1e2aa9c.png",
+    "static/media/projectgrp.png": "/sample/static/media/projectgrp.18e7237f67976a1a0b2b.png",
+    "static/media/hackathon.png": "/sample/static/media/hackathon.72c9e620a3e337452619.png",
+    "static/media/hand.png": "/sample/static/media/hand.cc99113acf9d54be899c.png",
+    "static/media/smc.png": "/sample/static/media/smc.25619ce61fef7a051212.png",
+    "static/media/workshopbtech.png": "/sample/static/media/workshopbtech.8756fc99b8407303754e.png",
+    "static/media/demoatconclave.png": "/sample/static/media/demoatconclave.7ab2463164eb4f676432.png",
+    "static/media/completion.png": "/sample/static/media/completion.d4ec7464bbe427220339.png",
+    "static/media/modelhand.png": "/sample/static/media/modelhand.02cdfad871c769f78f72.png",
+    "static/media/datacollection.png": "/sample/static/media/datacollection.6fdd40fb3fcab2a5cee2.png",
+    "static/media/certi.png": "/sample/static/media/certi.18794a55944ed9facdd2.png",
+    "static/media/svnitlogo.png": "/sample/static/media/svnitlogo.86c161caea58fde5becf.png",
+    "static/media/treadmill.png": "/sample/static/media/treadmill.ed82c5fcbaa8e6ea27b9.png",
+    "static/media/3dprinter.png": "/sample/static/media/3dprinter.7aaac68bc092450d42ab.png",
+    "static/media/cismrlogo.png": "/sample/static/media/cismrlogo.7f08184d3fd7cb0b1a71.png",
+    "index.html": "/sample/index.html",
+    "main.6ec5d398.css.map": "/sample/static/css/main.6ec5d398.css.map",
+    "main.980d64e0.js.map": "/sample/static/js/main.980d64e0.js.map"
   },
   "entrypoints": [
     "static/css/main.6ec5d398.css",
-    "static/js/main.068af74c.js"
+    "static/js/main.980d64e0.js"
   ]
 }
